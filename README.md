@@ -1,6 +1,6 @@
 ![ A Full Stack Web Developer.](https://i.ibb.co/89TrDzQ/github-banner.jpg)
-### Hi there 👋, I am Fazla Rabby.
-####  A Full Stack Web Developer.
+## Hi there 👋, I am Fazla Rabby.
+###  A Full Stack Web Developer.
 
 I am passionate Full Stack Web Developer. Completed my graduation on B.Sc in Computer Science and Engineering. I am very enthusiastic about new technologies and love to explore them. Completed my web development course from Programming Hero. I have knowledge about various languages like React JS, Node JS, Express JS, CSS, and HTML. My motto is to create error free and user friendly websites. I am currently looking for work opportunities where I can share my knowledge.
 
