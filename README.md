@@ -17,9 +17,7 @@ Skills: REACT / JS / Node / Express / HTML / CSS / Tailwind /
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=fazlarabby1)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=fazlarabby1)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fazlarabby1&show_icons=true)  
+(https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fazlarabby1)  
 
